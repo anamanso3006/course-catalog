@@ -1,4 +1,4 @@
-name: Teste Build
+name: Teste Unitário
 
 on:
     workflow_dispatch: #Teste unitário
