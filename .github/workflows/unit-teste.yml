@@ -1,7 +1,7 @@
 name: Teste Build
 
 on:
-    workflow_dispatch: #Disparo manual
+    workflow_dispatch: #Teste unitário
 
 jobs:
     unit-test:
